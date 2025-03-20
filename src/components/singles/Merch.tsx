@@ -1,0 +1,1 @@
+//los singles de merch mostraran la imagen del lado zziquierdo 50/50 del lado derecho el rpecio descripcion atgs etc al igualn que el nombre del creador relacionado e imagenes de esta merch  y este formato se repetira en cursos 

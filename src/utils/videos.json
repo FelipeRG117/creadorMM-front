@@ -1,0 +1,116 @@
+[
+    {
+        "relatedEntity": {
+            "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+        },
+        "entityType": "creator",
+        "title": "Unboxing de la nueva consola",
+        "description": "Gafe423 abre la nueva consola y comparte sus primeras impresiones.",
+        "videoUrl": "https://www.youtube.com/watch?v=abc123",
+        "thumbnailUrl": "https://i.ytimg.com/vi/abc123/hqdefault.jpg",
+        "tags": [
+            "unboxing",
+            "consola",
+            "tecnología"
+        ],
+        "views": 15000,
+        "likes": [],
+        "isFeatured": true,
+        "uploadDate": "2023-10-01T00:00:00.000Z"
+    },
+    {
+        "relatedEntity": {
+            "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+        },
+        "entityType": "creator",
+        "title": "Review del nuevo juego",
+        "description": "Gafe423 analiza el último lanzamiento de la industria de los videojuegos.",
+        "videoUrl": "https://www.youtube.com/watch?v=def456",
+        "thumbnailUrl": "https://i.ytimg.com/vi/def456/hqdefault.jpg",
+        "tags": [
+            "review",
+            "videojuegos",
+            "análisis"
+        ],
+        "views": 20000,
+        "likes": [],
+        "isFeatured": false,
+        "uploadDate": "2023-10-05T00:00:00.000Z"
+    },
+    {
+        "relatedEntity": {
+            "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+        },
+        "entityType": "creator",
+        "title": "Conduciendo en la ciudad",
+        "description": "Bukalo nos lleva a un recorrido por las calles de la ciudad.",
+        "videoUrl": "https://www.youtube.com/watch?v=ghi789",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ghi789/hqdefault.jpg",
+        "tags": [
+            "conducción",
+            "ciudad",
+            "vlogs"
+        ],
+        "views": 12000,
+        "likes": [],
+        "isFeatured": true,
+        "uploadDate": "2023-09-25T00:00:00.000Z"
+    },
+    {
+        "relatedEntity": {
+            "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+        },
+        "entityType": "creator",
+        "title": "Aventuras en la montaña",
+        "description": "Bukalo explora las montañas y comparte sus experiencias.",
+        "videoUrl": "https://www.youtube.com/watch?v=jkl012",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jkl012/hqdefault.jpg",
+        "tags": [
+            "aventura",
+            "montaña",
+            "naturaleza"
+        ],
+        "views": 18000,
+        "likes": [],
+        "isFeatured": false,
+        "uploadDate": "2023-09-30T00:00:00.000Z"
+    },
+    {
+        "relatedEntity": {
+            "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+        },
+        "entityType": "creator",
+        "title": "Cocina tradicional mexicana",
+        "description": "ChiludasMx prepara un platillo tradicional y comparte la receta.",
+        "videoUrl": "https://www.youtube.com/watch?v=mno345",
+        "thumbnailUrl": "https://i.ytimg.com/vi/mno345/hqdefault.jpg",
+        "tags": [
+            "cocina",
+            "recetas",
+            "mexicano"
+        ],
+        "views": 25000,
+        "likes": [],
+        "isFeatured": true,
+        "uploadDate": "2023-10-10T00:00:00.000Z"
+    },
+    {
+        "relatedEntity": {
+            "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+        },
+        "entityType": "creator",
+        "title": "Tour por el mercado local",
+        "description": "ChiludasMx visita un mercado local y muestra los productos típicos.",
+        "videoUrl": "https://www.youtube.com/watch?v=pqr678",
+        "thumbnailUrl": "https://i.ytimg.com/vi/pqr678/hqdefault.jpg",
+        "tags": [
+            "mercado",
+            "cultura",
+            "mexicano"
+        ],
+        "views": 22000,
+        "likes": [],
+        "isFeatured": false,
+        "uploadDate": "2023-10-15T00:00:00.000Z"
+    }
+]

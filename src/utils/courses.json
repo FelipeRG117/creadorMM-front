@@ -1,0 +1,108 @@
+[
+    {
+        "title": "Curso de Cocina Tradicional Mexicana",
+        "description": "Aprende a preparar platillos tradicionales mexicanos con técnicas profesionales.",
+        "category": "Cocina",
+        "image": [
+            "https://ejemplo.com/imagen1.jpg",
+            "https://ejemplo.com/imagen2.jpg"
+        ],
+        "videos": [
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            },
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            }
+        ],
+        "plans": [
+            {
+                "planName": "Plan Principiante",
+                "price": 500,
+                "duration": "1 mes",
+                "benefits": [
+                    "Acceso a 5 recetas básicas",
+                    "Clases en vivo semanales",
+                    "Material descargable"
+                ]
+            },
+            {
+                "planName": "Plan Avanzado",
+                "price": 1000,
+                "duration": "3 meses",
+                "benefits": [
+                    "Acceso a 20 recetas avanzadas",
+                    "Clases en vivo semanales",
+                    "Material descargable",
+                    "Certificado de finalización"
+                ]
+            }
+        ],
+        "creators": [
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            }
+        ],
+        "tags": [
+            "cocina",
+            "mexicano",
+            "recetas"
+        ],
+        "isActive": true
+    },
+    {
+        "title": "Curso de Tecnología y Videojuegos",
+        "description": "Explora el mundo de la tecnología y los videojuegos con expertos en la materia.",
+        "category": "Tecnología",
+        "image": [
+            "https://ejemplo.com/imagen3.jpg",
+            "https://ejemplo.com/imagen4.jpg"
+        ],
+        "videos": [
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            },
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            }
+        ],
+        "plans": [
+            {
+                "planName": "Plan Básico",
+                "price": 700,
+                "duration": "1 mes",
+                "benefits": [
+                    "Acceso a 5 tutoriales básicos",
+                    "Clases en vivo semanales",
+                    "Material descargable"
+                ]
+            },
+            {
+                "planName": "Plan Profesional",
+                "price": 1500,
+                "duration": "3 meses",
+                "benefits": [
+                    "Acceso a 20 tutoriales avanzados",
+                    "Clases en vivo semanales",
+                    "Material descargable",
+                    "Certificado de finalización",
+                    "Soporte personalizado"
+                ]
+            }
+        ],
+        "creators": [
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            },
+            {
+                "$oid": "64f8b1b2e4b0d1a2c3e4f5a1"
+            }
+        ],
+        "tags": [
+            "tecnología",
+            "videojuegos",
+            "análisis"
+        ],
+        "isActive": true
+    }
+]
